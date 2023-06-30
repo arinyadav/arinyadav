@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arinyadav" alt="arinyadav" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/arinyadav " target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arinyadav" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arinyadav123" target="blank"><img src="https://img.shields.io/twitter/follow/arinyadav123?logo=twitter&style=for-the-badge" alt="arinyadav123" /></a> </p>
 
 - 🔭 I’m currently working on [Yoga and Fitness App](https://github.com/arinyadav/Yoga-and-Fitness)
 
