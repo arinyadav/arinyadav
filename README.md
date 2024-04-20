@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arinyadav123" target="blank"><img src="https://img.shields.io/twitter/follow/arinyadav123?logo=twitter&style=for-the-badge" alt="arinyadav123" /></a> </p>
 
-- 🔭 I’m currently working on [Yoga and Fitness App](https://github.com/arinyadav/Yoga-and-Fitness)
+- 🔭 I’m currently working on [Amazon_Clone]((https://github.com/arinyadav/amazon_clone))
 
 - 🌱 I’m currently learning **Flutter**
 
